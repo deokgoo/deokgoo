@@ -3,7 +3,7 @@
 ### junior Front Developer 🚀 from Korea
 
 ### 🔭 I’m currently working on [FukuokaFinancialGroup](https://www.fukuokabank.co.jp) in japan
-### 🌱 I’m currently learning <span style="color: pink"> React, GraphQL, AWS(Lambda) </span>
+### 🌱 I’m currently learning <span style="color: pink"> React, GraphQL, AWS(ECS & lambda) </span>
 
 <br/>
 
