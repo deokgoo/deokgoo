@@ -19,8 +19,8 @@
 
 <hr/>
 <div style="display: flex; align-items: center; background-color: white;">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokgoo&layout=compact&hide_border=true" border= alt="mridul" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true&hide_border=true" alt="mridul" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokgoo&layout=compact&hide_border=true" style="width:50%;" alt="mridul" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true&hide_border=true" style="width:50%;" alt="mridul" />
 </div>
 <br/>
 <br/>
