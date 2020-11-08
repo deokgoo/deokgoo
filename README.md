@@ -18,9 +18,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/></p><p align="center"> 
 
 <hr/>
-
-<img align="right" width="40%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-<img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true&hide_border=true" alt="mridul" /> </p>
+<div style="display: flex; align-items: center">
+<img height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokgoo" alt="mridul" />
+<img height="300px"  src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true" alt="mridul" />
+</div>
 <br/>
 <br/>
