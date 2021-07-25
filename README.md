@@ -14,12 +14,7 @@
 ### Experienced <span style="color: pink">(Langauge, Framework & lib, Tool)</span>
 
 #### Main Stack
-<<<<<<< HEAD
-<p align="left">
-<div class="tech-stack1">
-=======
 <p>
->>>>>>> ad99c8dc5300edb1247963ea3b131ab427eefdf8
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
     <i class="devicon-vuejs-plain-wordmark colored" style="font-size: 2rem;"></i>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
