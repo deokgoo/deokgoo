@@ -15,38 +15,38 @@
 
 #### Main Stack
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' width="30" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 <div class="tech-stack2">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg' width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg' width="50" height="50">
 </div>
 <div class="tech-stack3">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' width="50" height="50">
 </div>
 <div class="tech-stack4" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="50" height="50">
 </div>
 
 #### ETC
 <div class="tech-stack5" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg' width="50" height="50">
 </div>
 
 #### Communication
 <div class="tech-stack6" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' width="30" height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' width="50" height="50">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' width="50" height="50">
 </div>
 
 #### Linguistic ability
