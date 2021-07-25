@@ -16,38 +16,37 @@
 #### Main Stack
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-    <i class="devicon-vuejs-plain-wordmark colored" style="font-size: 2rem;"></i>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' width="30" height="30">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 <div class="tech-stack2">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-    <i class="devicon-sass-original colored" style="font-size: 2rem;"></i>
-    <i class="devicon-babel-plain colored" style="font-size: 2rem;"></i>
-    <i class="devicon-webpack-plain-wordmark colored" style="font-size: 2rem;"></i>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg' width="30" height="30">
 </div>
 <div class="tech-stack3">
-    <i class="devicon-nodejs-plain-wordmark colored" style="font-size: 2rem;"></i>
-    <i class="devicon-express-original-wordmark colored" style="font-size: 2rem;"></i>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' width="30" height="30">
 </div>
 <div class="tech-stack4" style="margin-bottom: 1rem">
-<i class="devicon-circleci-plain-wordmark colored" style="font-size: 2rem;"></i>
-<i class="devicon-docker-plain-wordmark colored" style="font-size: 2rem;"></i>
-<i class="devicon-heroku-plain-wordmark colored" style="font-size: 2rem;"></i>
-
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="30" height="30">
 </div>
 
 #### ETC
 <div class="tech-stack5" style="margin-bottom: 1rem">
-    <i class="devicon-spring-plain-wordmark colored" style="font-size: 2rem;"></i>
-    <i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 2rem;"></i>
-    <i class="devicon-graphql-plain-wordmark colored" style="font-size: 2rem;"></i>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg' width="30" height="30">
 </div>
 
 #### Communication
 <div class="tech-stack6" style="margin-bottom: 1rem">
-    <i class="devicon-slack-plain-wordmark colored" style="font-size: 2rem;"></i>
-    <i class="devicon-trello-plain-wordmark colored" style="font-size: 2rem;"></i>
-    <i class="devicon-github-original-wordmark colored" style="font-size: 2rem;"></i>
-    <i class="devicon-gitlab-plain-wordmark colored" style="font-size: 2rem;"></i>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' width="30" height="30">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' width="30" height="30">
 </div>
 
 #### Linguistic ability
