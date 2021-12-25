@@ -4,7 +4,7 @@
 
 ### junior Front Developer 🚀 from Korea
 
-### 🔭 I’m currently working on [FukuokaFinancialGroup](https://www.fukuokabank.co.jp) in japan
+### 🔭 I’m currently working on [OLIVE YOUNG](https://tech.oliveyoung.co.kr/about/) in Seoul
 ### 🌱 I’m interested in now <span style="color: pink"> Rendering performance, SEO, UX</span>
 
 <br/>
