@@ -10,8 +10,6 @@ junior Front Developer 🚀 from Korea
 🌱 I’m interested in now <span style="color: pink"> Rendering performance, SEO, UX</span>
 </p>
 
-<br/>
-
 ## Experienced (Framework & lib, Langauge, tool)
 ### Main skills
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
@@ -45,18 +43,9 @@ junior Front Developer 🚀 from Korea
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="30" height="30">
 </div>
 
-<br/>
-
 ### Linguistic ability
 - Korea: mother tongue
 - Japan: Confident in conversation but immature at reading and writing
 - English: reading and writing is normal but inexperienced conversation
 
 <br/>
-
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; align-items: center; justify-content: center; background-color: white; width: 90%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokgoo&layout=compact&hide_border=true" style="width:50%;" alt="mridul" />
-      <img src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true&hide_border=true" style="width:50%;" alt="mridul" />
-  </div>
-</div>
