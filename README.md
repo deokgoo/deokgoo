@@ -1,63 +1,62 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeokgoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
-### Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm deokgoo
+<p>
+Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm deokgoo
 
-### junior Front Developer 🚀 from Korea
+junior Front Developer 🚀 from Korea
 
-### 🔭 I’m currently working on [OLIVE YOUNG](https://tech.oliveyoung.co.kr/about/) in Seoul
-### 🌱 I’m interested in now <span style="color: pink"> Rendering performance, SEO, UX</span>
+🔭 I’m currently working on [Olive Young](https://tech.oliveyoung.co.kr/about/) in Seoul
+
+🌱 I’m interested in now <span style="color: pink"> Rendering performance, SEO, UX</span>
+</p>
 
 <br/>
 
-<hr/>
-
-### Experienced <span style="color: pink">(Langauge, Framework & lib, Tool)</span>
-
-#### Main Stack
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-<div class="tech-stack2">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg' width="50" height="50">
+## Experienced (Framework & lib, Langauge, tool)
+### Main skills
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
 </div>
-<div class="tech-stack3">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' width="50" height="50">
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </div>
-<div class="tech-stack4" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="50" height="50">
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white"/>
+</div>
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
 
-#### ETC
-<div class="tech-stack5" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg' width="50" height="50">
+### Etc
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=black"/>
+</div>
+<div style="display: flex; gap: 5px; margin-bottom: 10px;">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg' width="30" height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="30" height="30">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="30" height="30">
 </div>
 
-#### Communication
-<div class="tech-stack6" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' width="50" height="50">
-</div>
+<br/>
 
-#### Linguistic ability
+### Linguistic ability
 - Korea: mother tongue
 - Japan: Confident in conversation but immature at reading and writing
 - English: reading and writing is normal but inexperienced conversation
 
-<hr/>
-<div style="display: flex; align-items: center; background-color: white;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokgoo&layout=compact&hide_border=true" style="width:50%;" alt="mridul" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true&hide_border=true" style="width:50%;" alt="mridul" />
+<br/>
+
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; align-items: center; justify-content: center; background-color: white; width: 90%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deokgoo&layout=compact&hide_border=true" style="width:50%;" alt="mridul" />
+      <img src="https://github-readme-stats.vercel.app/api?username=deokgoo&show_icons=true&hide_border=true" style="width:50%;" alt="mridul" />
+  </div>
 </div>
-<br/>
-<br/>
