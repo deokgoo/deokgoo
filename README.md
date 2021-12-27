@@ -10,8 +10,10 @@ junior Front Developer 🚀 from Korea
 🌱 I’m interested in now <span style="color: pink"> Rendering performance, SEO, UX</span>
 </p>
 
-## Experienced (Framework & lib, Langauge, tool)
-### Main skills
+---
+
+<strong> Experienced (Framework & lib, Langauge, tool) </strong> <br/>
+Main skills
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
@@ -31,7 +33,7 @@ junior Front Developer 🚀 from Korea
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
 
-### Etc
+Etc
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=black"/>
@@ -43,9 +45,13 @@ junior Front Developer 🚀 from Korea
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg' width="30" height="30">
 </div>
 
-### Linguistic ability
-- Korea: mother tongue
-- Japan: Confident in conversation but immature at reading and writing
-- English: reading and writing is normal but inexperienced conversation
+---
+
+<strong> Linguistic ability </strong> <br/>
+ Korea: mother tongue
+ 
+ Japan: Confident in conversation but immature at reading and writing
+ 
+ English: reading and writing is normal but inexperienced conversation
 
 <br/>
