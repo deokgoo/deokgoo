@@ -29,7 +29,6 @@ Main skills
 </div>
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white"/>
 </div>
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
