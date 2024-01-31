@@ -3,7 +3,7 @@
 <p>
 Hi, I'm deokgoo
 
-junior Front Developer 🚀 from Korea
+Front Developer 🚀 from Korea
 
 🔭 I’m currently working on [Olive Young](https://tech.oliveyoung.co.kr/about/) in Seoul
 
